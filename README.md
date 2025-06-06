@@ -14,7 +14,7 @@ Hey There, I'm Insha Fatima 👋
 
 🌐 Let's Connect!
 
-- 🔗 LinkedIn: linkedin.com/in/fatimainsha72 
+- 🔗 linkedin.com/in/fatimainsha72 
 - 📫 Email: fatimainsha72@gmail.com
 
 
