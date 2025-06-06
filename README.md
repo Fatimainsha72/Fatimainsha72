@@ -15,7 +15,7 @@ I aim to contribute to open-source, work on real-world projects, and collaborate
 
 🌐 Let's Connect!
 
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🔗 LinkedIn-linkedin.com/in/fatimainsha72 
 - 📫 Email: fatimainsha72@gmail.com
 
 
