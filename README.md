@@ -1,7 +1,7 @@
 Hey There, I'm Insha Fatima 👋
 
 🎓 Currently pursuing my B.Tech in Computer Science.  
-💻 Aspiring Software Development Engineer with a passion for building scalable and impactful web applications.I enjoy learning and experimenting with technologies like **JavaScript**, **React**, and I'm currently sharpening my skills in **Data Structures & Algorithms**.  
+💻 Aspiring Software Development Engineer with a passion for building scalable and impactful web applications. I enjoy learning and experimenting with technologies like **JavaScript**, **React**, and I'm currently sharpening my skills in **Data Structures & Algorithms**.  
 I aim to contribute to open-source, work on real-world projects, and collaborate on innovative tech solutions.
 
 🚀 Tech Stack
