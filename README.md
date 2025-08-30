@@ -9,7 +9,7 @@ Hey There, I'm Insha Fatima 👋
 - **Languages**: Java, JavaScript, HTML, CSS  
 - **Frontend Tools**: VS Code, Git  
 - **Frameworks & Libraries**: React (beginner), Express.js (learning)  
-- **CS Fundamentals**: Data Structures & Algorithms in Progress, OOPs  
+- **CS Fundamentals**: Data Structures & Algorithms, OOPs, DBMS, Computer Networks
 - **Soft Skills**: Problem Solving, Team Collaboration  
 
 🌐 Let's Connect!
